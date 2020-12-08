@@ -1,4 +1,4 @@
-### Hello! I'm is Andrew 👋
+### Hello! I'm Andrew 👋
 
 I am a fullstack engineer who loves to create new ways to ease the friction of everyday life.
 
